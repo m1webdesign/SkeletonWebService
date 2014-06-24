@@ -1,0 +1,11 @@
+C:\Users\wilsoni\Documents\Turton REST API\API\Turton.API\Turton.Service\bin\Release\Turton.Service.dll
+C:\Users\wilsoni\Documents\Turton REST API\API\Turton.API\Turton.Service\bin\Release\Turton.Service.pdb
+C:\Users\wilsoni\Documents\Turton REST API\API\Turton.API\Turton.Service\bin\Release\Turton.DAL.dll
+C:\Users\wilsoni\Documents\Turton REST API\API\Turton.API\Turton.Service\bin\Release\Turton.Domain.dll
+C:\Users\wilsoni\Documents\Turton REST API\API\Turton.API\Turton.Service\bin\Release\Turton.DAL.pdb
+C:\Users\wilsoni\Documents\Turton REST API\API\Turton.API\Turton.Service\bin\Release\Turton.Domain.pdb
+C:\Users\wilsoni\Documents\Turton REST API\API\Turton.API\Turton.Service\obj\Release\Turton.Service.csprojResolveAssemblyReference.cache
+C:\Users\wilsoni\Documents\Turton REST API\API\Turton.API\Turton.Service\obj\Release\Turton.Service.dll
+C:\Users\wilsoni\Documents\Turton REST API\API\Turton.API\Turton.Service\obj\Release\Turton.Service.pdb
+C:\Users\wilsoni\Documents\Turton REST API\API\Turton.API\Turton.Service\bin\Release\EntityFramework.dll
+C:\Users\wilsoni\Documents\Turton REST API\API\Turton.API\Turton.Service\bin\Release\EntityFramework.xml

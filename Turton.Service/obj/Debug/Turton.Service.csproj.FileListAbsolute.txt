@@ -1,0 +1,11 @@
+C:\Users\wilsoni\Documents\Turton REST API\API\Turton.API\Turton.Service\bin\Debug\Turton.Service.dll
+C:\Users\wilsoni\Documents\Turton REST API\API\Turton.API\Turton.Service\bin\Debug\Turton.Service.pdb
+C:\Users\wilsoni\Documents\Turton REST API\API\Turton.API\Turton.Service\bin\Debug\Turton.DAL.dll
+C:\Users\wilsoni\Documents\Turton REST API\API\Turton.API\Turton.Service\bin\Debug\Turton.Domain.dll
+C:\Users\wilsoni\Documents\Turton REST API\API\Turton.API\Turton.Service\bin\Debug\Turton.DAL.pdb
+C:\Users\wilsoni\Documents\Turton REST API\API\Turton.API\Turton.Service\bin\Debug\Turton.Domain.pdb
+C:\Users\wilsoni\Documents\Turton REST API\API\Turton.API\Turton.Service\obj\Debug\Turton.Service.csprojResolveAssemblyReference.cache
+C:\Users\wilsoni\Documents\Turton REST API\API\Turton.API\Turton.Service\obj\Debug\Turton.Service.dll
+C:\Users\wilsoni\Documents\Turton REST API\API\Turton.API\Turton.Service\obj\Debug\Turton.Service.pdb
+C:\Users\wilsoni\Documents\Turton REST API\API\Turton.API\Turton.Service\bin\Debug\EntityFramework.dll
+C:\Users\wilsoni\Documents\Turton REST API\API\Turton.API\Turton.Service\bin\Debug\EntityFramework.xml

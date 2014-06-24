@@ -1,0 +1,12 @@
+C:\Users\wilsoni\Documents\Turton REST API\API\Turton.API\Turton.DAL\obj\Debug\Turton.DAL.csprojResolveAssemblyReference.cache
+C:\Users\wilsoni\Documents\Turton REST API\API\Turton.API\Turton.DAL\bin\Debug\Turton.DAL.dll
+C:\Users\wilsoni\Documents\Turton REST API\API\Turton.API\Turton.DAL\bin\Debug\Turton.DAL.pdb
+C:\Users\wilsoni\Documents\Turton REST API\API\Turton.API\Turton.DAL\bin\Debug\Turton.Domain.dll
+C:\Users\wilsoni\Documents\Turton REST API\API\Turton.API\Turton.DAL\bin\Debug\Turton.Domain.pdb
+C:\Users\wilsoni\Documents\Turton REST API\API\Turton.API\Turton.DAL\obj\Debug\Turton.DAL.dll
+C:\Users\wilsoni\Documents\Turton REST API\API\Turton.API\Turton.DAL\obj\Debug\Turton.DAL.pdb
+C:\Users\wilsoni\Documents\Turton REST API\API\Turton.API\Turton.DAL\bin\Debug\Turton.DAL.dll.config
+C:\Users\wilsoni\Documents\Turton REST API\API\Turton.API\Turton.DAL\bin\Debug\EntityFramework.dll
+C:\Users\wilsoni\Documents\Turton REST API\API\Turton.API\Turton.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\wilsoni\Documents\Turton REST API\API\Turton.API\Turton.DAL\bin\Debug\EntityFramework.xml
+C:\Users\wilsoni\Documents\Turton REST API\API\Turton.API\Turton.DAL\bin\Debug\EntityFramework.SqlServer.xml

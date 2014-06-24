@@ -1,0 +1,5 @@
+C:\Users\wilsoni\Documents\Turton REST API\API\Turton.API\Turton.Domain\bin\Debug\Turton.Domain.dll
+C:\Users\wilsoni\Documents\Turton REST API\API\Turton.API\Turton.Domain\bin\Debug\Turton.Domain.pdb
+C:\Users\wilsoni\Documents\Turton REST API\API\Turton.API\Turton.Domain\obj\Debug\Turton.Domain.csprojResolveAssemblyReference.cache
+C:\Users\wilsoni\Documents\Turton REST API\API\Turton.API\Turton.Domain\obj\Debug\Turton.Domain.dll
+C:\Users\wilsoni\Documents\Turton REST API\API\Turton.API\Turton.Domain\obj\Debug\Turton.Domain.pdb
